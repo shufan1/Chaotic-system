@@ -12,3 +12,5 @@ Here is a breakdown of the files in this repository:
 * HenonHeiles:
   * xia_HenonHeiles.py: solve and produce 3D phase plots of Henon-Heiles systems under different inital conditions.
   * xia_Poincare.py: generate the Poincare sections of the system under different initial conditions
+
+![0001.jpg](https://github.com/shufan1/Chaotic-system/blob/master/writeUp/0001.jpg)
